@@ -3,9 +3,7 @@
 <p><br></p>
 <hr>
 
-<p><strong><span style='font-family: "Comic Sans MS", sans-serif; font-size: 20px;'>2.Computer Network</span></strong></p>
-<p><span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Computer network is basically group of interconnected devices via a shared medium.&nbsp;</span><span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Computer networking, is the practice of transporting and exchanging data between nodes over a shared medium in an information system.</span></p>
-<p><br></p>
+
 <hr>
 <p><strong><span style='font-family: "Comic Sans MS", sans-serif; font-size: 20px;'>2.Computer Network</span></strong></p>
 <p><span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Computer network is basically group of interconnected devices via a shared medium.&nbsp;</span><span style='font-family: "Comic Sans MS", sans-serif; font-size: 18px;'>Computer networking, is the practice of transporting and exchanging data between nodes over a shared medium in an information system.</span></p>
